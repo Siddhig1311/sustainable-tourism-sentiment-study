@@ -15,7 +15,7 @@ To analyze online tourist reviews using sentiment analysis to:
 
 ## 📊 Methods Used
 
-- **Web Scraping** (manually collected ~250+ reviews from Google Maps)
+- **Web Scraping** (manually collected ~50+ reviews from Google Maps)
 - **Natural Language Processing (NLP)**
   - Text Cleaning
   - Tokenization
@@ -33,7 +33,8 @@ To analyze online tourist reviews using sentiment analysis to:
 │   ├── sentiment-analysis-1.ipynb
 │   └── sentiment-analysis-2.ipynb
 ├── report/                    # Final PDF report
-│   └── M2024ANLT029-Siddhi-Gholap.pdf
-├── data/                      # (Optional) CSV of scraped reviews
+│   └── Sustainable tourism insights report.pdf
+├── data/                      # CSV of scraped reviews
+		└── Sustainable tourism insights report.pdf                  
 ├── README.md
 └── LICENSE
