@@ -25,6 +25,40 @@ To analyze online tourist reviews using sentiment analysis to:
 
 ---
 
+## 🧠 Key Insights
+
+- High frequency of keywords like **"dirty"**, **"overcrowded"**, and **"poor management"** reflected common concerns about hygiene and site maintenance.
+- **Sentiment scores** showed a skew toward **neutral/negative experiences**, despite the **historical and cultural significance** of the monument.
+- Recommendations include:
+  - Improved **waste disposal mechanisms**
+  - Smarter **visitor capacity management**
+  - Implementation of **digital feedback systems** for real-time monitoring
+
+---
+
+## 💡 Technologies Used
+
+- Python
+- Jupyter Notebook
+- TextBlob / VADER (for sentiment analysis)
+- WordCloud, matplotlib (for data visualization)
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🙋‍♀️ Author
+
+**Siddhi Gholap**  
+Master’s in Analytics – Tata Institute of Social Sciences  
+[LinkedIn](https://www.linkedin.com/in/siddhi-gholap)
+
+---
+
 ## 📁 Project Structure
 
 ```bash
